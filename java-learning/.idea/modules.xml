@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/five_mini-game/five_mini-game.iml" filepath="$PROJECT_DIR$/five_mini-game/five_mini-game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/four_mini-projects/four_mini-projects.iml" filepath="$PROJECT_DIR$/four_mini-projects/four_mini-projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-learning.iml" filepath="$PROJECT_DIR$/.idea/java-learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/one_oop/one_oop.iml" filepath="$PROJECT_DIR$/one_oop/one_oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/three_gui/three_gui.iml" filepath="$PROJECT_DIR$/three_gui/three_gui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/two_file-assets/two_file-assets.iml" filepath="$PROJECT_DIR$/two_file-assets/two_file-assets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero_basics/zero_basics.iml" filepath="$PROJECT_DIR$/zero_basics/zero_basics.iml" />
+    </modules>
+  </component>
+</project>

@@ -25,7 +25,7 @@ public class GuessTheNumber {
                     playerNum = scanner.nextInt();
                     attempts ++;
 
-                        if (playerNum > secretNumber_bot ) {
+                    if (playerNum > secretNumber_bot ) {
                         System.out.println("\uD83D\uDCC9 less");
                     } else if (playerNum < secretNumber_bot ) {
                         System.out.println("\uD83D\uDCC8 more");
@@ -33,7 +33,7 @@ public class GuessTheNumber {
                         System.out.println("\uD83C\uDF89 You guessed the number, congratulations! " + secretNumber_bot);
                         System.out.println("Number of attempts: " + attempts);
                         attempts = 0;
-                        }
+                    }
                 }
             } else if (playerState == 2) {
                 System.out.println("with friend");
@@ -69,6 +69,9 @@ public class GuessTheNumber {
                     }
                 }
             } else if (playerState == 3) {
+                for (int i = 0; i < 50; i++) {
+                    System.out.println();
+                }
                 System.out.println("Exit");
                 running = false;
             }

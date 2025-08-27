@@ -3,7 +3,7 @@ import java.util.ArrayList;
 
 public class Mini_task_manager {
 
-    public static void add_task(Scanner scanner, boolean run_task, ArrayList task_complexity){
+    public static void add_task(Scanner scanner, boolean run_task, ArrayList<Integer> task_complexity){
         while (run_task) {
             System.out.println("Please indicate the complexity of the task on a scale of 1 to 100.");
             int complexity = scanner.nextInt();
@@ -19,11 +19,13 @@ public class Mini_task_manager {
                     break;
                 case 1:
                     break;
+                default:
+                    System.out.println("Invalid choice! Try again.");
             }
         }
     }
 
-    public static void  read_task(ArrayList task_complexity) {
+    public static void  read_task(ArrayList<Integer> task_complexity) {
         System.out.println("\n===================");
         System.out.println(task_complexity);
         System.out.println("===================\n");
@@ -95,6 +97,8 @@ public class Mini_task_manager {
                case 5:
                    min_max(task_complexity);
                    break;
+               default:
+                   System.out.println("Invalid choice! Try again.");
            }
        }
     }

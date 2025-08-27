@@ -35,6 +35,8 @@ public class SimilaritiesMenu {
                     int remainder = num1 % num2;
                     System.out.println("Remainder: " + remainder);
                     break;
+                default:
+                    System.out.println("Invalid choice! Try again.");
             }
             System.out.println("| 1. Again | 2. Exit |");
             int choice_calculator_menu = scanner.nextInt();

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01_Introduction_Basics/01_Introduction_Basics.iml" filepath="$PROJECT_DIR$/01_Introduction_Basics/01_Introduction_Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_OOP/02_OOP.iml" filepath="$PROJECT_DIR$/02_OOP/02_OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_Collections_Framework/03_Collections_Framework.iml" filepath="$PROJECT_DIR$/03_Collections_Framework/03_Collections_Framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_Exceptions/04_Exceptions.iml" filepath="$PROJECT_DIR$/04_Exceptions/04_Exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_Streams_API/05_Streams_API.iml" filepath="$PROJECT_DIR$/05_Streams_API/05_Streams_API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_Algorithm/06_Algorithm.iml" filepath="$PROJECT_DIR$/06_Algorithm/06_Algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-learning.iml" filepath="$PROJECT_DIR$/.idea/java-learning.iml" />
+    </modules>
+  </component>
+</project>
